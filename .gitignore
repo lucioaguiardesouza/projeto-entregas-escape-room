@@ -2,3 +2,7 @@ target/
 *.class
 .idea/
 .vscode/
+
+# Configurações locais com credenciais (não versionar)
+config/application.properties
+*.env
