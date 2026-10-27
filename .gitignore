@@ -2,3 +2,12 @@ target/
 *.class
 .idea/
 .vscode/
+
+# Configurações locais com credenciais (não versionar)
+config/application.properties
+*.env
+
+# Arquivos da IDE Eclipse
+.classpath
+.project
+.settings/
